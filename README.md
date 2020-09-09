@@ -126,7 +126,7 @@ To complete this project, you will need to turn in the following deliverables:
         - Whenever possible, link to the corresponding data dictionary
     - We encourage you to import custom functions and classes from Python modules and not create them directly in the notebook.  As soon as you have a working function in one of your exploratory notebooks, copy it over to `src` so it is reusable.
     - Much of the content in the report will be shared with the README.
-8. An "Executive Summary" Keynote/PowerPoint/Google Slide presentation (delivered as a PDF export) that explains what you have found for the SRP. The presentation that accompanies that deck should be 4-5 minutes, so use your space wisely.
+7. An "Executive Summary" Keynote/PowerPoint/Google Slide presentation (delivered as a PDF export) that explains what you have found for the SRP. The presentation that accompanies that deck should be 4-5 minutes, so use your space wisely.
     - Make sure to also add and commit this file as presentation.pdf of your non-technical presentation to your repository with a file name of `reports/presentation.pdf`.
     - Contain between 5-10 professional quality slides detailing:
        - A high-level overview of your methodology
@@ -134,7 +134,7 @@ To complete this project, you will need to turn in the following deliverables:
        - Any real-world recommendations you would like to make based on your findings (ask yourself--why should the executive team care about what you found? How can your findings help the company/stakeholder?)
        - Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
     - All visualizations included in this presentation should also be exported as image files (e.g. with `plt.savefig`, not by taking a screenshot) and saved under `reports/figures/`
-9. Be sure to generate at least 3 high quality, well-labeled visualizations that support your conclusions. There should be a clear takeaway from each. These visualizations will reappear in the README, jupyter notebook report, and presentation deck.
+8. Be sure to generate at least 3 high quality, well-labeled visualizations that support your conclusions. There should be a clear takeaway from each. These visualizations will reappear in the README, jupyter notebook report, and presentation deck.
 
 ## Citations
 
